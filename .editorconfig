@@ -7,4 +7,4 @@ root = true
 # Indentation override for all C files
 [*.c]
 indent_style = space
-indent_size = 8
+indent_size = 4
